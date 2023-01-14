@@ -19,10 +19,10 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/@HwModsWa857' // ubah aia
-global.ig = '@Lixxzy144p' // ubah aja
+global.youtube = 'https://youtube.com/@777-Ditz' // ubah aia
+global.ig = '@adit.offlclal' // ubah aja
 global.linkgrupss = "https://chat.whatsapp.com/Dnxdj6TCWCB1UJV7kvhxhx"
-global.email = 'lixxzy3@gmail.com'
+global.email = 'ditzurb@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Ditz URB' //ubah jadi nama mu, note tanda ' gausah di hapus!
